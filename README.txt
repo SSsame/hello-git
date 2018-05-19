@@ -1,2 +1,2 @@
 Hello Nagoya!
-Hellp Git
+Hello Git!
